@@ -5,7 +5,7 @@ Tags: tripadvisor, reviews, hotels, restaurant, accommodation
 Requires at least: 3.0.1
 Tested up to: 6.7
 Requires PHP: 5.2
-Stable tag: 12.4.5
+Stable tag: 12.4.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Plugin Name: WP Tripadvisor Review Widgets
@@ -14,7 +14,7 @@ Plugin URI: https://wordpress.org/plugins/review-widgets-for-tripadvisor/
 Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Text Domain: review-widgets-for-tripadvisor
-Version: 12.4.5
+Version: 12.4.6
 
 Embed Tripadvisor reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Tripadvisor reviews.
 
@@ -146,7 +146,7 @@ We recommend the following order when searching for answers:
 3. [Trustindex FAQ](https://www.trustindex.io/frequently-asked-questions/)
 4. Check topics or ask a new question here: [Support Forum](https://wordpress.org/support/plugin/review-widgets-for-tripadvisor/)
 5. Join our Community on Facebook: https://www.facebook.com/groups/990874785532977
-5. If you still can't find the answer, feel free to email us: support@trustindex.io
+6. If you still can't find the answer, feel free to email us: support@trustindex.io
 
 To find out more about who we are and what we do, here are some useful links:
 
