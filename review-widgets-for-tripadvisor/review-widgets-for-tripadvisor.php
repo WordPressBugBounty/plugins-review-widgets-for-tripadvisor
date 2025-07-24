@@ -9,7 +9,7 @@ Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Contributors: trustindex
 License: GPLv2 or later
-Version: 12.9
+Version: 13.0
 Requires at least: 6.2
 Requires PHP: 7.0
 Text Domain: review-widgets-for-tripadvisor
@@ -22,7 +22,7 @@ Copyright 2019 Trustindex Kft (email: support@trustindex.io)
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 require_once plugin_dir_path(__FILE__) . 'include' . DIRECTORY_SEPARATOR . 'cache-plugin-filters.php';
 require_once plugin_dir_path(__FILE__) . 'trustindex-plugin.class.php';
-$trustindex_pm_tripadvisor = new TrustindexPlugin_tripadvisor("tripadvisor", __FILE__, "12.9", "WP Tripadvisor Review Widgets", "Tripadvisor");
+$trustindex_pm_tripadvisor = new TrustindexPlugin_tripadvisor("tripadvisor", __FILE__, "13.0", "WP Tripadvisor Review Widgets", "Tripadvisor");
 $pluginManager = 'TrustindexPlugin_tripadvisor';
 $pluginManagerInstance = $trustindex_pm_tripadvisor;
 add_action('admin_init', function() { ob_start(); });
