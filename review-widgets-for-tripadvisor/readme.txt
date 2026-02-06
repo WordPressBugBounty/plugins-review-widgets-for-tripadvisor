@@ -2,8 +2,8 @@
 Contributors: trustindex
 Donate link: https://www.trustindex.io/prices/
 Tags: tripadvisor, reviews, hotels, restaurant, accommodation
-Tested up to: 6.8
-Stable tag: 13.2
+Tested up to: 6.9
+Stable tag: 13.2.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Plugin Name: WP Tripadvisor Review Widgets
@@ -12,7 +12,7 @@ Plugin URI: https://wordpress.org/plugins/review-widgets-for-tripadvisor/
 Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Text Domain: review-widgets-for-tripadvisor
-Version: 13.2
+Version: 13.2.7
 
 Embed Tripadvisor reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Tripadvisor reviews.
 
